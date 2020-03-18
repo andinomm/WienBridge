@@ -1,0 +1,3 @@
+Theory
+
+A Wien bridge oscillator is a type of electronic oscillator that generates sine waves. It can generate a large range of frequencies. The oscillator can also be viewed as a positive gain amplifier combined with a bandpass filter that provides positive feedback. Automatic gain control, intentional non-linearity and incidental non-linearity limit the output amplitude in various implementations of the oscillator.

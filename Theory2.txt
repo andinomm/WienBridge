@@ -1,0 +1,11 @@
+Automatic gain control 
+with diodes
+
+The conventional oscillator circuit is designed so that it will start oscillating ("start up") and that its amplitude will be controlled.
+The oscillator at the right uses diodes to add a controlled compression to the amplifier output. It can produce total harmonic distortion in the range of 1-5%, depending on how carefully it is trimmed.
+Automatic gain control - depending on the output voltage magnitude.
+Using diodes for AGC:
+If the voltage drop VD
+increases,
+the equivalent static resistance rD
+decreases
